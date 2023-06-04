@@ -1,0 +1,23 @@
+{
+  "name": "dom_project",
+  "version": "1.0.0",
+  "description": "dom manipulation exp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shibn2/DOM_Project.git"
+  },
+  "author": "Shibn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shibn2/DOM_Project/issues"
+  },
+  "homepage": "https://github.com/Shibn2/DOM_Project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
