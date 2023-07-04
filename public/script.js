@@ -23,3 +23,9 @@ for(let i = 0; i <= 100; i++){
 
   rootEle.appendChild(cDiv);
 }
+
+// Problem.
+// 1. Create an input field and a submit button.
+// 2. Create a list below it.
+// 3. On submitting a text in the input field it should add the new text to the list.
+// 4. Add the new changes to a new root element and add it to the 'root'
